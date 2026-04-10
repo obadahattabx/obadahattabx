@@ -3,7 +3,7 @@
 
 <!-- 🔥 HERO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real+Systems...;Full+Stack+Engineer+(MERN+%2B+Spring);Scaling+POS+SaaS+🚀;Clean+Architecture+%7C+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real+Systems...;Full+Stack+Engineer+(MERN+%2B+Spring);Scaling+POS+SaaS+;Clean+Architecture+%7C+Performance+Focused" />
 </h1>
 
 <h3 align="center">Full Stack Engineer • SaaS Builder • System Thinker</h3>

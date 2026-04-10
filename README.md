@@ -81,7 +81,7 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,java,spring,reactnative,ts,js,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,express,java,spring,reactnative,vite,firebase,appwrite,py,ts,js,html,css,tailwind,bootstrap,linux,git,github,figma,reactnative,vscode,pycharm,eclipse,androidstudio,postman," />
 </p>
 <!-- ✨ LINE -->
 <p align="center">

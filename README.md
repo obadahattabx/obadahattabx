@@ -30,9 +30,6 @@
 <p align="center">
   I don’t just build apps — I build <b>systems that scale</b>.
   <br><br>
-  Currently developing a <b>POS SaaS platform</b> designed for real businesses:
-  multi-user, high performance, and production-ready architecture.
-  <br><br>
   My focus is not tools — it's <b>how everything connects</b>:
   performance, clean structure, and long-term maintainability.
 </p>

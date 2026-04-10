@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hey 👋, I'm Zero</h1>
+<h3 align="center">Full Stack Developer | Building Real SaaS Products 🚀</h3>
 
-<!--
-**obadahattabx/obadahattabx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+React+Native+Expert;Java+Spring+Boot+Backend;Building+POS+SaaS+System;Always+Learning+%F0%9F%94%A5" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- SOCIALS -->
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 🧠 About Me
+
+```js
+const developer = {
+  name: "Zero",
+  role: "Full Stack Developer",
+  stack: ["MERN", "React Native", "Spring Boot"],
+  currentFocus: "Building scalable POS SaaS system",
+  interests: [
+    "Clean Architecture",
+    "Performance Optimization",
+    "Real-time Systems",
+    "UI/UX Experience"
+  ],
+  mindset: "Build real products, not just projects"
+};
